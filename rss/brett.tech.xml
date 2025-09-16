@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://www.tiktok.com/@brett.tech</id>
   <title>brett.tech TikTok</title>
-  <updated>2025-09-15T16:45:12+00:00</updated>
+  <updated>2025-09-15T21:55:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,18 +13,10 @@
   <logo>https://asixjin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from brett.tech</subtitle>
   <entry>
-    <id>https://tiktok.com/@brett.tech/video/7532218682798312709</id>
-    <title>Mom: We have data transmission at home. [the data transmission at home] @Open Sauce #engineering #diy #arduino #maker #python #c #developer</title>
-    <updated>2025-07-28T19:35:30+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/ocERAeQP6MI4zMDPBQf0FJAJGDQagQh3B9hooE~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=NwGP2LIYzs5PKNkaPEI514u67OI%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Mom: We have data transmission at home. [the data transmission at home] @Open Sauce #engineering #diy #arduino #maker #python #c #developer</content>
-    <link href="https://tiktok.com/@brett.tech/video/7532218682798312709"/>
-    <published>2025-07-28T19:35:30+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@brett.tech/video/7532921547590356230</id>
     <title>@Open Sauce answers questions like “how fast can we shoot”. Just because. Ft. @pb.projectbox #ge</title>
     <updated>2025-07-30T17:02:59+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/oYJp0VKSEQgUKi8BSUtEhApiQFaI9DIPQEvBB~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=7DWQUTDpgr6iz8lDvbmvDPlqp2M%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;@Open Sauce answers questions like “how fast can we shoot”. Just because. Ft. @pb.projectbox #ge</content>
+    <content>&lt;img src="https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/oYJp0VKSEQgUKi8BSUtEhApiQFaI9DIPQEvBB~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=N%2BVTzeeDNmByKI812ZzCA8Cez6I%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;@Open Sauce answers questions like “how fast can we shoot”. Just because. Ft. @pb.projectbox #ge</content>
     <link href="https://tiktok.com/@brett.tech/video/7532921547590356230"/>
     <published>2025-07-30T17:02:59+00:00</published>
   </entry>
@@ -32,7 +24,7 @@
     <id>https://tiktok.com/@brett.tech/video/7535249659804011782</id>
     <title>If you don’t fw LoRaWAN I don’t fw you. I’ll be building a meshtastic device soon, stay tuned (: @Open Sauce #engineering #arduino #3dprinting #esp32</title>
     <updated>2025-08-05T23:37:13+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/oI1SeGJLgAS3cQFI9CKIHcgfYQsjgnLpRlCHMe~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=p6ku%2BOMF6rIh2xuIvUMtYY%2FE%2BsE%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;If you don’t fw LoRaWAN I don’t fw you. I’ll be building a meshtastic device soon, stay tuned (: @Open Sauce #engineering #arduino #3dprinting #esp32</content>
+    <content>&lt;img src="https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/oI1SeGJLgAS3cQFI9CKIHcgfYQsjgnLpRlCHMe~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=HmT9uj0uvOnEAqV0l%2FoK5r2ObpI%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;If you don’t fw LoRaWAN I don’t fw you. I’ll be building a meshtastic device soon, stay tuned (: @Open Sauce #engineering #arduino #3dprinting #esp32</content>
     <link href="https://tiktok.com/@brett.tech/video/7535249659804011782"/>
     <published>2025-08-05T23:37:13+00:00</published>
   </entry>
@@ -40,7 +32,7 @@
     <id>https://tiktok.com/@brett.tech/video/7536643476318948664</id>
     <title>Honestly hidden gems of smarthome (real ones know this is a repost) #smarthome #smartthings #homekit #tech #siri #apple #homeoffice #design #fyp #foryou #applewatch #iphone #hacksoflife #hack</title>
     <updated>2025-08-09T17:45:56+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/oM0DKvJIxnQ3LzqRA3BQjECLeeUJS2ISCG0Cgf~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=ZcBlyLZwYV3Cki5nSLUuunf%2Fgmo%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Honestly hidden gems of smarthome (real ones know this is a repost) #smarthome #smartthings #homekit #tech #siri #apple #homeoffice #design #fyp #foryou #applewatch #iphone #hacksoflife #hack</content>
+    <content>&lt;img src="https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/oM0DKvJIxnQ3LzqRA3BQjECLeeUJS2ISCG0Cgf~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=OsGOUMaVW7aKXUewTCHZR%2FQczDM%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Honestly hidden gems of smarthome (real ones know this is a repost) #smarthome #smartthings #homekit #tech #siri #apple #homeoffice #design #fyp #foryou #applewatch #iphone #hacksoflife #hack</content>
     <link href="https://tiktok.com/@brett.tech/video/7536643476318948664"/>
     <published>2025-08-09T17:45:56+00:00</published>
   </entry>
@@ -48,7 +40,7 @@
     <id>https://tiktok.com/@brett.tech/video/7538851255360212232</id>
     <title>Picked up the new @Samsung Galaxy Z Fold7 from @TELUS and I am SO blown away by this thing. Build quality is amazing, feels so great in the hands, tons of AI features, great camera, the list just goes on; Coupled with Telus’s award winning 5G network make</title>
     <updated>2025-08-15T16:33:14+00:00</updated>
-    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oYpIiw5pgwFIofPCUemGeDEjJZALN2sAcAGRgR~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=rvEKpulPU%2Bm%2F2syVDlQ1Y2sKYGM%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Picked up the new @Samsung Galaxy Z Fold7 from @TELUS and I am SO blown away by this thing. Build quality is amazing, feels so great in the hands, tons of AI features, great camera, the list just goes on; Coupled with Telus’s award winning 5G network make</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oYpIiw5pgwFIofPCUemGeDEjJZALN2sAcAGRgR~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=%2FljnvJsMLIs1f%2Ft0K9gO%2B9B%2Bqy0%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Picked up the new @Samsung Galaxy Z Fold7 from @TELUS and I am SO blown away by this thing. Build quality is amazing, feels so great in the hands, tons of AI features, great camera, the list just goes on; Coupled with Telus’s award winning 5G network make</content>
     <link href="https://tiktok.com/@brett.tech/video/7538851255360212232"/>
     <published>2025-08-15T16:33:14+00:00</published>
   </entry>
@@ -56,7 +48,7 @@
     <id>https://tiktok.com/@brett.tech/video/7540725074806967570</id>
     <title>Okay @Google Pixel I see u (from far away)  </title>
     <updated>2025-08-20T17:44:37+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oQAsBEYoUErEJRJIVamfBFCpODzdegI6ttuQkg~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=rWWTd3MnxHnbGNkVc0C3q7ThUoM%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Okay @Google Pixel I see u (from far away)  </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oQAsBEYoUErEJRJIVamfBFCpODzdegI6ttuQkg~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=vt1i%2FGjwjXD%2B6En2swjG%2FB0KVt4%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Okay @Google Pixel I see u (from far away)  </content>
     <link href="https://tiktok.com/@brett.tech/video/7540725074806967570"/>
     <published>2025-08-20T17:44:37+00:00</published>
   </entry>
@@ -64,7 +56,7 @@
     <id>https://tiktok.com/@brett.tech/video/7540737361253010695</id>
     <title>This demo was so much better than I expected this is insane </title>
     <updated>2025-08-20T18:32:20+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oE5LmASdgUIbKEQoepFfBBgO1FEV6qQyRnDhE5~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=5VcPJ5vkTvdJOnwpI%2FBiyCpedN0%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;This demo was so much better than I expected this is insane </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oE5LmASdgUIbKEQoepFfBBgO1FEV6qQyRnDhE5~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=T05FHETRGRFe%2FJ05EU086S1Ub5s%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;This demo was so much better than I expected this is insane </content>
     <link href="https://tiktok.com/@brett.tech/video/7540737361253010695"/>
     <published>2025-08-20T18:32:20+00:00</published>
   </entry>
@@ -72,7 +64,7 @@
     <id>https://tiktok.com/@brett.tech/video/7540739854162742535</id>
     <title>Okay Google cooked with this NGL</title>
     <updated>2025-08-20T18:41:59+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oU0Bq7mKoA2EwAiI9AOIUvSB0UC1wDfyxTFBiA~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=e8L460iPnOFLDem7d9Ul03ZqyQQ%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Okay Google cooked with this NGL</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oU0Bq7mKoA2EwAiI9AOIUvSB0UC1wDfyxTFBiA~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=N6nOhKeS8oGnsQ8jFmCd2coHPY8%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Okay Google cooked with this NGL</content>
     <link href="https://tiktok.com/@brett.tech/video/7540739854162742535"/>
     <published>2025-08-20T18:41:59+00:00</published>
   </entry>
@@ -80,7 +72,7 @@
     <id>https://tiktok.com/@brett.tech/video/7540742262712569095</id>
     <title>Android 🤝 Apple </title>
     <updated>2025-08-20T18:51:20+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oQaIvQmESVIPADBAtsiGC0iYdYCFFpJjYP5BK~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=RM5bAAnK2d%2FHl59vd4Bh%2Fvtlh7c%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Android 🤝 Apple </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oQaIvQmESVIPADBAtsiGC0iYdYCFFpJjYP5BK~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=j8qZSZY3emtgcw4OWLp2Nr2mSz0%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Android 🤝 Apple </content>
     <link href="https://tiktok.com/@brett.tech/video/7540742262712569095"/>
     <published>2025-08-20T18:51:20+00:00</published>
   </entry>
@@ -88,7 +80,7 @@
     <id>https://tiktok.com/@brett.tech/video/7540768029249015058</id>
     <title>Here’s all the Google stuff (: #madebygoogle #tech #android </title>
     <updated>2025-08-20T20:31:21+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/owziAVIG4mBTwMYACIKyhEOKPBqVYX2B4maEi~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=0f%2BZIzA%2FeLKyoHSaxf4IupQFp%2Bg%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Here’s all the Google stuff (: #madebygoogle #tech #android </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/owziAVIG4mBTwMYACIKyhEOKPBqVYX2B4maEi~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=JwbBshD2EZf0cg8NXk2FNMoLjT0%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Here’s all the Google stuff (: #madebygoogle #tech #android </content>
     <link href="https://tiktok.com/@brett.tech/video/7540768029249015058"/>
     <published>2025-08-20T20:31:21+00:00</published>
   </entry>
@@ -96,7 +88,7 @@
     <id>https://tiktok.com/@brett.tech/video/7543049041710468370</id>
     <title>(: </title>
     <updated>2025-08-27T00:02:50+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMZCqqiVdIBgPwDAWWgwfUia0uIlIpOAqm0ySA~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=hCTmlWod0AMueJHxccVOiG4OCnc%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;(: </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMZCqqiVdIBgPwDAWWgwfUia0uIlIpOAqm0ySA~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=sVqxZpb0OBuBe0o8OQBN3jln75Y%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;(: </content>
     <link href="https://tiktok.com/@brett.tech/video/7543049041710468370"/>
     <published>2025-08-27T00:02:50+00:00</published>
   </entry>
@@ -104,7 +96,7 @@
     <id>https://tiktok.com/@brett.tech/video/7543452340574031122</id>
     <title>Gotta keep a pulse on what’s going on in the Android world. So far this thing is pretttttyyy impressive  #asmr #google #pixel #tiktok</title>
     <updated>2025-08-28T02:07:50+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oYoGE8VcIa4JgfLARtHAhc3eqP1jCdIXfgDxd4~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=%2FfUZEBvCLR7JrzWo41dCdlMNDFY%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Gotta keep a pulse on what’s going on in the Android world. So far this thing is pretttttyyy impressive  #asmr #google #pixel #tiktok</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oYoGE8VcIa4JgfLARtHAhc3eqP1jCdIXfgDxd4~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=J1oViA%2BO9uzqEI3ekpG6rQGnzA4%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Gotta keep a pulse on what’s going on in the Android world. So far this thing is pretttttyyy impressive  #asmr #google #pixel #tiktok</content>
     <link href="https://tiktok.com/@brett.tech/video/7543452340574031122"/>
     <published>2025-08-28T02:07:50+00:00</published>
   </entry>
@@ -112,7 +104,7 @@
     <id>https://tiktok.com/@brett.tech/video/7547540274701012231</id>
     <title>I’m really excited for this (: #tech #maker #3dprinting #diy #setup </title>
     <updated>2025-09-08T02:31:07+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ocARGftQ3QAHNCuDYqQ0eeFwqAIFMFGliQfGTL~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=naXhR79y2qAyBe73%2BTMjg5D0yM4%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;I’m really excited for this (: #tech #maker #3dprinting #diy #setup </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ocARGftQ3QAHNCuDYqQ0eeFwqAIFMFGliQfGTL~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=%2Fo%2Fw60pxhLhEUurxoBHH5S6CabE%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;I’m really excited for this (: #tech #maker #3dprinting #diy #setup </content>
     <link href="https://tiktok.com/@brett.tech/video/7547540274701012231"/>
     <published>2025-09-08T02:31:07+00:00</published>
   </entry>
@@ -120,7 +112,7 @@
     <id>https://tiktok.com/@brett.tech/video/7547860305670327559</id>
     <title>Who thinks I’m wrong 🙋‍♂️ #apple #tech #iphone #macbook #siri  </title>
     <updated>2025-09-08T23:13:01+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o0gS1E2roBi9YbroADBjNrqvFFGQcQfRvEAdfG~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=qZ89EkBOHnwTcdE%2BOI1G8UZtfwY%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Who thinks I’m wrong 🙋‍♂️ #apple #tech #iphone #macbook #siri  </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o0gS1E2roBi9YbroADBjNrqvFFGQcQfRvEAdfG~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=SHMFGCdLwA%2FC4JG%2BIJSp8WBZLQ8%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Who thinks I’m wrong 🙋‍♂️ #apple #tech #iphone #macbook #siri  </content>
     <link href="https://tiktok.com/@brett.tech/video/7547860305670327559"/>
     <published>2025-09-08T23:13:01+00:00</published>
   </entry>
@@ -128,7 +120,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548138647711698184</id>
     <title>#apple #iphone #airpods #siri #tech</title>
     <updated>2025-09-09T17:13:06+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o8aaRpAIGQieyfLeYACXXIhAIAfj5XGF2xCGLF~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=luZBjeceENkXXYbbBafMYzIwbP4%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;#apple #iphone #airpods #siri #tech</content>
+    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o8aaRpAIGQieyfLeYACXXIhAIAfj5XGF2xCGLF~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=M4ip5FmOTm%2FzBn%2Bs%2FrmSK%2F58wHQ%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;#apple #iphone #airpods #siri #tech</content>
     <link href="https://tiktok.com/@brett.tech/video/7548138647711698184"/>
     <published>2025-09-09T17:13:06+00:00</published>
   </entry>
@@ -136,7 +128,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548139884599627015</id>
     <title>#apple #applewatch #iphone #mac #tech </title>
     <updated>2025-09-09T17:17:55+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oILIgE1BREJEoAYfAYew3GU2PBODEBF0QFFBEl~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=sdS3BzpkjdlA96Xu4%2BZ7w37uYE4%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;#apple #applewatch #iphone #mac #tech </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oILIgE1BREJEoAYfAYew3GU2PBODEBF0QFFBEl~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=Mye2vTlLyzXgykoVfJ6tJt%2FZDWg%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;#apple #applewatch #iphone #mac #tech </content>
     <link href="https://tiktok.com/@brett.tech/video/7548139884599627015"/>
     <published>2025-09-09T17:17:55+00:00</published>
   </entry>
@@ -144,7 +136,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548141173035076872</id>
     <title>#apple #iphone #airpods #siri #tech</title>
     <updated>2025-09-09T17:22:52+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o4U6wyLRkQHLExsBEoGgeJDnFZfGABOh2QNAyG~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=MAEOkhItPQ7ysMYTAzYbOnyEvrk%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;#apple #iphone #airpods #siri #tech</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o4U6wyLRkQHLExsBEoGgeJDnFZfGABOh2QNAyG~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=7roRzLdEw3SXFsQM8URzG82X%2FoY%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;#apple #iphone #airpods #siri #tech</content>
     <link href="https://tiktok.com/@brett.tech/video/7548141173035076872"/>
     <published>2025-09-09T17:22:52+00:00</published>
   </entry>
@@ -152,7 +144,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548144763178945800</id>
     <title>Biggest announcement so far let’s gooo #apple #iphone #airpods #siri #tech</title>
     <updated>2025-09-09T17:36:51+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMiAM0Ki7lI9AIcIXAi0AZnBwQqS0AhbfDYCgw~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=CxfGw1N1TnldBn6fNi24v%2BnexC4%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Biggest announcement so far let’s gooo #apple #iphone #airpods #siri #tech</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMiAM0Ki7lI9AIcIXAi0AZnBwQqS0AhbfDYCgw~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=MnEpjw5NZX9GiFQ0PPc%2BK67ZA%2BE%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Biggest announcement so far let’s gooo #apple #iphone #airpods #siri #tech</content>
     <link href="https://tiktok.com/@brett.tech/video/7548144763178945800"/>
     <published>2025-09-09T17:36:51+00:00</published>
   </entry>
@@ -160,7 +152,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548148003362573575</id>
     <title>No Title</title>
     <updated>2025-09-09T17:49:22+00:00</updated>
-    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ooKDgBYKIAoSmECC4AaiCcQlZIrIwMi30AAZpf~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=E8bT%2BSJvA5XqvYnaFsU51OPtvjE%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ooKDgBYKIAoSmECC4AaiCcQlZIrIwMi30AAZpf~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=zM9ZaPhBLTZuq%2FFD63mpFIyZnXc%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
     <link href="https://tiktok.com/@brett.tech/video/7548148003362573575"/>
     <published>2025-09-09T17:49:22+00:00</published>
   </entry>
@@ -168,7 +160,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548149231756791048</id>
     <title>omg </title>
     <updated>2025-09-09T17:54:13+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o8HAVYPAIaMiphIBm03iEq6PXBoBgsB6daAVk~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=ShDHyI0M%2BQr1id3Wdoe0LewdYoU%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;omg </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o8HAVYPAIaMiphIBm03iEq6PXBoBgsB6daAVk~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=suptnyvvLZD%2BmqllAS9ti5AMtkw%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;omg </content>
     <link href="https://tiktok.com/@brett.tech/video/7548149231756791048"/>
     <published>2025-09-09T17:54:13+00:00</published>
   </entry>
@@ -176,7 +168,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548152074438003975</id>
     <title>No Title</title>
     <updated>2025-09-09T18:05:13+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMIAvMEBCAFPUB5YlaNIBrAWyZySCrOiAlbiU~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=8J%2Bj8FkqSOp4lBXlfwX4JE3KEhk%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMIAvMEBCAFPUB5YlaNIBrAWyZySCrOiAlbiU~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=ZKA1IoTQ85EWNGCy%2FNddEtQ3oRY%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
     <link href="https://tiktok.com/@brett.tech/video/7548152074438003975"/>
     <published>2025-09-09T18:05:13+00:00</published>
   </entry>
@@ -184,7 +176,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548156869274045714</id>
     <title>No Title</title>
     <updated>2025-09-09T18:23:50+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMEuWsIgU5AFLEGcbRReswfwAzDsBBIIvCNovA~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=es7EVIa%2BpbQOZ4IPp8RWZJFLDdA%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMEuWsIgU5AFLEGcbRReswfwAzDsBBIIvCNovA~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=bK%2FSWGBnmp%2FXRCWgCQjjLrNTCpo%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
     <link href="https://tiktok.com/@brett.tech/video/7548156869274045714"/>
     <published>2025-09-09T18:23:50+00:00</published>
   </entry>
@@ -192,7 +184,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548157024438209810</id>
     <title>Which iPhone 17 Pro color are you copping?</title>
     <updated>2025-09-09T18:24:27+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMABDNJAzFoQfBOmlfDHrQCpUwcREDFgobXEy8~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=SBEqMgI1kQEX436E7OuIZowTx3M%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Which iPhone 17 Pro color are you copping?</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oMABDNJAzFoQfBOmlfDHrQCpUwcREDFgobXEy8~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=Tu6JUgytgUMZK%2BejNNwaWua1paQ%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Which iPhone 17 Pro color are you copping?</content>
     <link href="https://tiktok.com/@brett.tech/video/7548157024438209810"/>
     <published>2025-09-09T18:24:27+00:00</published>
   </entry>
@@ -200,7 +192,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548160662103674120</id>
     <title>No Title</title>
     <updated>2025-09-09T18:38:34+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ooIItRBoHwAdQF8A0ynDCgCEU3BfAQwxLIQfEH~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=swhlfrY9WDrl%2BCBk8%2BpM9pUXaeg%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ooIItRBoHwAdQF8A0ynDCgCEU3BfAQwxLIQfEH~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=BmHbwWODCJOiPcv8Eo9HMclrCdw%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No Description</content>
     <link href="https://tiktok.com/@brett.tech/video/7548160662103674120"/>
     <published>2025-09-09T18:38:34+00:00</published>
   </entry>
@@ -208,7 +200,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548164222773890312</id>
     <title>(There’s only one right answer)</title>
     <updated>2025-09-09T18:52:19+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oAgRgAGMEDCI63YMeIAAIOJL5OAlkfk62pfjod~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=9BeUhoBEVysF6bk%2FNHeg7mRBVVw%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;(There’s only one right answer)</content>
+    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oAgRgAGMEDCI63YMeIAAIOJL5OAlkfk62pfjod~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=XRdyD0S%2FQTCJNN7ELz9gqN0hzmQ%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;(There’s only one right answer)</content>
     <link href="https://tiktok.com/@brett.tech/video/7548164222773890312"/>
     <published>2025-09-09T18:52:19+00:00</published>
   </entry>
@@ -216,7 +208,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548193558512110866</id>
     <title>the iPhone Air is 😮‍💨 #apple #iphone #tech </title>
     <updated>2025-09-09T20:46:14+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oI8f1MLgkZXSDfh8IA3CooRHSsjigAOeQgZCND~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=ia8Pt5xX8v6OlFHwmHrLAuB6VHg%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;the iPhone Air is 😮‍💨 #apple #iphone #tech </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oI8f1MLgkZXSDfh8IA3CooRHSsjigAOeQgZCND~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=dCA%2FPgLt6uLYsuFXd94lJvhGyBM%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;the iPhone Air is 😮‍💨 #apple #iphone #tech </content>
     <link href="https://tiktok.com/@brett.tech/video/7548193558512110866"/>
     <published>2025-09-09T20:46:14+00:00</published>
   </entry>
@@ -224,7 +216,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548217804764237063</id>
     <title>Replying to @𝕿𝖎𝖒𝖚𝖈𝖎𝖓 no case people 🤝 iPhone Air</title>
     <updated>2025-09-09T22:20:17+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o4DkrRUC2tfEIHFjIHQLaMAoZqAfOnzAmfgQCD~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=zMpu85ESdD3F2mMkOLjUHtwF78s%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Replying to @𝕿𝖎𝖒𝖚𝖈𝖎𝖓 no case people 🤝 iPhone Air</content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o4DkrRUC2tfEIHFjIHQLaMAoZqAfOnzAmfgQCD~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=I%2BBzLTQt36cMdKHenMuWPicf1HQ%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Replying to @𝕿𝖎𝖒𝖚𝖈𝖎𝖓 no case people 🤝 iPhone Air</content>
     <link href="https://tiktok.com/@brett.tech/video/7548217804764237063"/>
     <published>2025-09-09T22:20:17+00:00</published>
   </entry>
@@ -232,7 +224,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548232909010898194</id>
     <title>THE FRONT CAMERA!!! iPhone 17 Camera iPhone air Camera </title>
     <updated>2025-09-09T23:18:55+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oQeDneGZLkB7gaBEojFkACLIuDBggoJeARWv9I~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=ViJYk3HcTIDQ8ptSQDBKVACM9Qk%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;THE FRONT CAMERA!!! iPhone 17 Camera iPhone air Camera </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oQeDneGZLkB7gaBEojFkACLIuDBggoJeARWv9I~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=s2tDsxos7RxVFRzBfM15MB%2FqVdo%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;THE FRONT CAMERA!!! iPhone 17 Camera iPhone air Camera </content>
     <link href="https://tiktok.com/@brett.tech/video/7548232909010898194"/>
     <published>2025-09-09T23:18:55+00:00</published>
   </entry>
@@ -240,7 +232,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548246453420838162</id>
     <title>This is a very good thing. </title>
     <updated>2025-09-10T00:11:26+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o8R7f7QAQ5AvsgwhOZGffA4gSZYEGFZQ2GGjeB~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=lOxrwBk8p7D0xr%2F9B60oQ1Kq2Fo%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;This is a very good thing. </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/o8R7f7QAQ5AvsgwhOZGffA4gSZYEGFZQ2GGjeB~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=GIeiXg6HQ6bNg3hsZ%2Fd4Q6orrNE%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;This is a very good thing. </content>
     <link href="https://tiktok.com/@brett.tech/video/7548246453420838162"/>
     <published>2025-09-10T00:11:26+00:00</published>
   </entry>
@@ -248,7 +240,7 @@
     <id>https://tiktok.com/@brett.tech/video/7548262156467195144</id>
     <title>What do we think chat? </title>
     <updated>2025-09-10T01:12:20+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oAOsZMCBp3XaDfz8IAGG2oReg4jKgAetQAxCZG~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=tAa75ss%2FQ8yZV%2BmzCDJBI%2FKU1r8%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;What do we think chat? </content>
+    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oAOsZMCBp3XaDfz8IAGG2oReg4jKgAetQAxCZG~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=jPusqn9tXRy6%2F51%2B4j63CcerOQY%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;What do we think chat? </content>
     <link href="https://tiktok.com/@brett.tech/video/7548262156467195144"/>
     <published>2025-09-10T01:12:20+00:00</published>
   </entry>
@@ -256,7 +248,7 @@
     <id>https://tiktok.com/@brett.tech/video/7549738085941071112</id>
     <title>Which new iPhone do you get? I gotchu. #apple #iphone </title>
     <updated>2025-09-14T00:39:44+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ogADGdQMO4RQeCxMAGGBhQ7eojHjIoLAuKGI8e~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=QUJgaDRkd92J3MUKHeN%2FdhRTM%2BY%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Which new iPhone do you get? I gotchu. #apple #iphone </content>
+    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ogADGdQMO4RQeCxMAGGBhQ7eojHjIoLAuKGI8e~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=F4SYrQFL64QZbbyfz2Ywl3BEHio%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Which new iPhone do you get? I gotchu. #apple #iphone </content>
     <link href="https://tiktok.com/@brett.tech/video/7549738085941071112"/>
     <published>2025-09-14T00:39:44+00:00</published>
   </entry>
@@ -264,7 +256,7 @@
     <id>https://tiktok.com/@brett.tech/video/7550080799937219858</id>
     <title>AirPods Pro 3 are….worth the upgrade? (I didn’t think they would be) #apple #airpods #iphone #fyp </title>
     <updated>2025-09-14T22:49:39+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/osAXG6MHWSAqBIFtoYvBaRHXEiYHBiCI1Vdb2~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=7Pj8eovcUO7I0K%2FHrxJzymlQOlM%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;AirPods Pro 3 are….worth the upgrade? (I didn’t think they would be) #apple #airpods #iphone #fyp </content>
+    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/osAXG6MHWSAqBIFtoYvBaRHXEiYHBiCI1Vdb2~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=KbmHz2uRFy7bkpRoYE6LvAoSPvo%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;AirPods Pro 3 are….worth the upgrade? (I didn’t think they would be) #apple #airpods #iphone #fyp </content>
     <link href="https://tiktok.com/@brett.tech/video/7550080799937219858"/>
     <published>2025-09-14T22:49:39+00:00</published>
   </entry>
@@ -272,7 +264,7 @@
     <id>https://tiktok.com/@brett.tech/video/7550285219950071047</id>
     <title>AirPod Pro 3s are 😮‍💨👌🙂‍↕️ #review #airpods #iphone #apple #mac </title>
     <updated>2025-09-15T12:02:52+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oodAHJwvbiEG6zG0AtBnIAIIfACzqAAqXB0IZi~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=b7yW6rIX5qTa7Teh57fLnvMsxYY%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;AirPod Pro 3s are 😮‍💨👌🙂‍↕️ #review #airpods #iphone #apple #mac </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/oodAHJwvbiEG6zG0AtBnIAIIfACzqAAqXB0IZi~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=F1hRlHSs4myDRLaYw5zvpOyrNNM%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;AirPod Pro 3s are 😮‍💨👌🙂‍↕️ #review #airpods #iphone #apple #mac </content>
     <link href="https://tiktok.com/@brett.tech/video/7550285219950071047"/>
     <published>2025-09-15T12:02:52+00:00</published>
   </entry>
@@ -280,15 +272,23 @@
     <id>https://tiktok.com/@brett.tech/video/7550357977249713415</id>
     <title>No charging cable ): #airpods #iphone #apple #tech #audio </title>
     <updated>2025-09-15T16:45:12+00:00</updated>
-    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ocoIGeffRIGQQThyADjALFtQQAGQA7w2GGrqVf~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=8u02TsBq0K3Z7FM%2BfG0vBz1DIZU%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No charging cable ): #airpods #iphone #apple #tech #audio </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ocoIGeffRIGQQThyADjALFtQQAGQA7w2GGrqVf~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=iab1mKNENmvxoohP0gUgSyAA%2FOc%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;No charging cable ): #airpods #iphone #apple #tech #audio </content>
     <link href="https://tiktok.com/@brett.tech/video/7550357977249713415"/>
     <published>2025-09-15T16:45:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@brett.tech/video/7550437925654105352</id>
+    <title>Replying to @Calum Chamberlain not in a million years would I have expected it to be THIS different #airpods #apple #iphone #noisecanceling #tech</title>
+    <updated>2025-09-15T21:55:33+00:00</updated>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ocBoooIBVdrEE1FRRoQGkwAUjigfMUhITfyQ1D~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=Vd11K55ZRnKSJQW7ooPjzFtjBhA%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Replying to @Calum Chamberlain not in a million years would I have expected it to be THIS different #airpods #apple #iphone #noisecanceling #tech</content>
+    <link href="https://tiktok.com/@brett.tech/video/7550437925654105352"/>
+    <published>2025-09-15T21:55:33+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@brett.tech/video/7297031291483032838</id>
     <title>SMART HOME 101 #smarthome #homeautomation #techtok #tech #automation #home #diy #homekit #alexa #siri #apple #fyp #foryou </title>
     <updated>2023-11-03T00:48:17+00:00</updated>
-    <content>&lt;img src="https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/281147d6a16b463b8d001e63b1b84263_1698972633~tplv-tiktokx-dmt-logom:tos-useast2a-v-0068/oMAuhEHWDQCqOIxNAMFAJRRQXCfElABIEeQZER.image?dr=9634&amp;x-expires=1758139200&amp;x-signature=Y9Ph0QNMk9SfuaU5IEiXHHmiYU4%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;SMART HOME 101 #smarthome #homeautomation #techtok #tech #automation #home #diy #homekit #alexa #siri #apple #fyp #foryou </content>
+    <content>&lt;img src="https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/281147d6a16b463b8d001e63b1b84263_1698972633~tplv-tiktokx-dmt-logom:tos-useast2a-v-0068/oMAuhEHWDQCqOIxNAMFAJRRQXCfElABIEeQZER.image?dr=9634&amp;x-expires=1758153600&amp;x-signature=e345iWmNgklRRtnd%2F%2Bauc4u4kjU%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;SMART HOME 101 #smarthome #homeautomation #techtok #tech #automation #home #diy #homekit #alexa #siri #apple #fyp #foryou </content>
     <link href="https://tiktok.com/@brett.tech/video/7297031291483032838"/>
     <published>2023-11-03T00:48:17+00:00</published>
   </entry>
@@ -296,7 +296,7 @@
     <id>https://tiktok.com/@brett.tech/video/7400968329172864261</id>
     <title>Some more @Open Sauce content, this has to be one of my faves from the floor from @spencer! #engineering #techtok #developer #smarthome #diy #arduino #maker #hacker #decor #analogue #fyp #foryou </title>
     <updated>2024-08-09T02:57:05+00:00</updated>
-    <content>&lt;img src="https://p19-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/o4NQvBC5AJREYrJmReYBBnISwEQWICFrpV8tfD~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=9J1%2BFpddv98ZlwDfMvMklyItzuA%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Some more @Open Sauce content, this has to be one of my faves from the floor from @spencer! #engineering #techtok #developer #smarthome #diy #arduino #maker #hacker #decor #analogue #fyp #foryou </content>
+    <content>&lt;img src="https://p16-common-sign-va.tiktokcdn-us.com/tos-maliva-p-0068/o4NQvBC5AJREYrJmReYBBnISwEQWICFrpV8tfD~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=Y2tnfeiVM0bR%2Fzudpm4o4OhJH1E%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;Some more @Open Sauce content, this has to be one of my faves from the floor from @spencer! #engineering #techtok #developer #smarthome #diy #arduino #maker #hacker #decor #analogue #fyp #foryou </content>
     <link href="https://tiktok.com/@brett.tech/video/7400968329172864261"/>
     <published>2024-08-09T02:57:05+00:00</published>
   </entry>
@@ -304,7 +304,7 @@
     <id>https://tiktok.com/@brett.tech/video/7543707639000255762</id>
     <title>99.99% of people don’t know these exist and that’s a problem #techtok #flipperzero #cybersecuirty #security #joindeleteme </title>
     <updated>2025-08-28T18:38:28+00:00</updated>
-    <content>&lt;img src="https://p19-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ogv2XbBAYCEBxBAUu3idIIiyVaiowPL8IoQDv~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758139200&amp;x-signature=0EAWCusV6C6kYl7RQyZDGxtLM%2Fw%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;99.99% of people don’t know these exist and that’s a problem #techtok #flipperzero #cybersecuirty #security #joindeleteme </content>
+    <content>&lt;img src="https://p16-common-sign-sg.tiktokcdn-us.com/tos-alisg-p-0037/ogv2XbBAYCEBxBAUu3idIIiyVaiowPL8IoQDv~tplv-tiktokx-origin.image?dr=9636&amp;x-expires=1758153600&amp;x-signature=USOsT0KaIyAC%2F0%2BMTIH0tC%2BWhyI%3D&amp;t=4d5b0474&amp;ps=13740610&amp;shp=81f88b70&amp;shcp=43f4a2f9&amp;idc=useast5" / &gt;99.99% of people don’t know these exist and that’s a problem #techtok #flipperzero #cybersecuirty #security #joindeleteme </content>
     <link href="https://tiktok.com/@brett.tech/video/7543707639000255762"/>
     <published>2025-08-28T18:38:28+00:00</published>
   </entry>
